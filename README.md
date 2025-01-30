@@ -1,4 +1,9 @@
-## Hi, I'm Marie!
+## Hi, I'm Marie! 🌱
+
+I'm a web developer and data journalist at The Michigan Daily, a former full-stack developer at Avenu, and student at The University of Michigan studying CS 👾.
+
+Passionate about web and full-stack development, programming and its impact on the world.
+Check out my [work](https://yum25.github.io/).
 
 <!--
 **yum25/yum25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
