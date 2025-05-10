@@ -1,6 +1,7 @@
 ## Hi, I'm Marie! 🌱
 
-I'm a web developer and data journalist at The Michigan Daily, a former full-stack developer at Avenu, and student at The University of Michigan studying CS 👾.
+I'm an incoming full-stack engineering intern at NYT Games 🧩.
+Formerly, I was a web developer at The Michigan Daily, a full-stack developer at Avenu, and student at The University of Michigan studying CS 👾.
 
 Passionate about web and full-stack development, programming and its impact on the world.
 
