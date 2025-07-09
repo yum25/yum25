@@ -1,6 +1,6 @@
 ## Hi, I'm Marie! 🌱
 
-I'm an incoming full-stack engineering intern at NYT Games 🧩.
+I'm a full-stack engineering intern at NYT Games 🧩.
 
 Formerly, I was a web developer at The Michigan Daily, a full-stack developer at Avenu, and student at The University of Michigan studying CS 👾.
 
