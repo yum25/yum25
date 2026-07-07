@@ -1,10 +1,8 @@
 ## Hi, I'm Marie! 🌱
 
-I'm a software engineer with a focus on product engineering and newsroom infrastructure. I study computer science at The University of Michigan.
+I'm a software engineer with a focus on product engineering and newsroom technologies. I study computer science at The University of Michigan.
 
 Previously, I developed software at The New York Times Games, The Michigan Daily, DETROITography, and Avenu.
-
-Passionate about web and full-stack development, programming and its impact on the world.
 
 Check out my work [here](https://yum25.github.io/).
 
